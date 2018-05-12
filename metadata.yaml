@@ -4,7 +4,7 @@ contributor:
   illustrator:
     agent_name: Stahr, Paul
     alias: Stahr, Paul C.
-    birthdate: &id001 1883
+    birthdate: 1883
     deathdate: 1953
     gutenberg_agent_id: '24864'
     url: http://www.gutenberg.org/2009/agents/24864
@@ -19,12 +19,14 @@ creator:
     - Grant, Douglas
     - Fox, David
     - Ostrander, Isabel Egenton
-    birthdate: *id001
+    birthdate: 1883
     deathdate: 1924
     gutenberg_agent_id: '33851'
     url: http://www.gutenberg.org/2009/agents/33851
     wikipedia: http://en.wikipedia.org/wiki/Isabel_Ostrander
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30640#Anything-Once
 gutenberg_issued: '2009-12-09'
 gutenberg_type: Text
 identifiers:
